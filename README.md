@@ -178,21 +178,6 @@ python bot.py
 • Dockerize for deployment
 
 
-
----
-
-🎓 Academic & Portfolio Use
-
-This project is suitable for:
-
-• Backend engineering portfolios
-
-• Event-driven application demonstrations
-
-• Discord automation and moderation tooling
-
-
-
 ---
 
 👤 Author
